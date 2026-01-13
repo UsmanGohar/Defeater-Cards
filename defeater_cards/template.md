@@ -2,13 +2,8 @@
 
 # Defeater Card
 
-## Metadata
-- **Defeater ID**:
-- **Defeater Tag**:
-- **Defeater Type**:
-- **Version**:
-- **Date**:
-- **Status**:
+**Metadata:**  
+Defeater ID | Defeater Tag | Defeater Type | Version | Date | Status
 
 ---
 
