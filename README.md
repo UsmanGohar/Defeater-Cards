@@ -6,3 +6,5 @@ This repository provides a Defeater Card template along with examples drawn from
 
 Defeater Cards are intended to be living artifacts that evolve alongside assurance practices and evaluation methodologies. As new types of risks, failure modes, and assessment techniques emerge, cards can be extended, refined, and added to reflect current best practices.
 Contributions are welcome! Please feel free to open issues or submit pull requests to suggest new cards, improvements to the template, or additional guidance for using Defeater Cards in practice.
+
+## Index
