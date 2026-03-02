@@ -4,4 +4,4 @@
 
 ## Card Creation Walkthrough
 
-### Relevant Papers
+### Citation
