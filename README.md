@@ -7,4 +7,16 @@ This repository provides a Defeater Card template along with examples drawn from
 Defeater Cards are intended to be living artifacts that evolve alongside assurance practices and evaluation methodologies. As new types of risks, failure modes, and assessment techniques emerge, cards can be extended, refined, and added to reflect current best practices.
 Contributions are welcome! Please feel free to open issues or submit pull requests to suggest new cards, improvements to the template, or additional guidance for using Defeater Cards in practice.
 
-## Index
+## Explore Defeater Cards
+* [CERN](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/CERN)
+
+* [Molecular Programming](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/molecular_programming)
+
+* [sUAS](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/sUAS)
+
+## Contributing New Defeater Cards
+If you are interested in contributing new defeater cards to new or existing systems, please use the [defeater card template](https://github.com/UsmanGohar/Defeater-Cards/blob/main/defeater_cards/template.md) at `defeater_cards/template.md` and fill out relevant areas. Name the card `{system name}_{defeater_name}.md`
+## Literature Review
+
+## Citation
+
