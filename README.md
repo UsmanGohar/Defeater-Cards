@@ -1,3 +1,6 @@
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/c96d8aca-54ae-4cea-9f63-b27df63881df" />
+
+
 # Defeater Cards
 
 This repo contains a Defeater Card template and Defeater cards for public safety-critical systems in the literature. You can use defeater cards to analyze and reason about defeaters in safety assurance cases!
