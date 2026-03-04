@@ -6,9 +6,9 @@
 
 This repo contains a Defeater Card template and Defeater cards for public-safety-critical systems described in the literature. You can use defeater cards to analyze and reason about defeaters in safety assurance cases!
 
-We envision defeater cards as living artifacts that will evolve. This repository serves as a centralized location for documentation and can be utilized by researchers for future work. As new methods and evaluation techniques are developed, defeaters cards can be added and updated.
+We envision defeater cards as living artifacts that will evolve. This repository serves as a centralized location for documentation and can be utilized by researchers for future work. As new methods and evaluation techniques are developed, defeater cards can be added and updated.
 
-We accept pull requests!
+**_We will support pull requests soon!_**
 
 ## Abstract
 Safety assurance cases provide structured justifications that safety-critical systems meet their safety requirements. Recently, the notion of defeaters has emerged as a rigorous means of challenging the validity of safety arguments. Examples of defeaters might include overly strict claims, unreliable evidence, or reasoning gaps. However, defeaters remain ad hoc, lack structured support for critical reflection, are inconsistently described, are difficult to review, and lack documentation standards. To address this, we propose Defeater Cards, a new structured documentation artifact for systematically characterizing, reasoning about, and managing defeaters in safety cases. Drawing on a literature survey and thematic analysis, we identify documentation criteria that inform the card's structure, based on the 5W1H framework. Defeater Cards are designed to support informed analysis and evolution, improve traceability and auditability, and enable the reuse of defeater knowledge
