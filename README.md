@@ -2,7 +2,7 @@
 
 <img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/c96d8aca-54ae-4cea-9f63-b27df63881df" />
 
-Defeater Cards are a transparency documentation for identifying and auditing a defeasible safety assurance case. They provide a structured format to support practitioners in identifying defeaters and enabling critical reflection (e.g., limitations, validity, etc.) and to support the auditability of safety assurance cases.
+**_Defeater Cards_** are a transparency documentation for identifying and auditing a defeasible safety assurance case. They provide a structured format to support practitioners in identifying defeaters and enabling critical reflection (e.g., limitations, validity, etc.) and to support the auditability of safety assurance cases.
 
 This repo contains a Defeater Card template and Defeater cards for public-safety-critical systems described in the literature. You can use defeater cards to analyze and reason about defeaters in safety assurance cases!
 
