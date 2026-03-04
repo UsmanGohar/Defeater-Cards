@@ -1,11 +1,14 @@
 # Defeater Cards
 
-Defeater Cards are structured documentation artifacts for recording and communicating defeaters—conditions, assumptions, or evidence that weaken or invalidate claims in an assurance case, evaluation, or audit. They capture key properties of defeaters (e.g., scope, triggering conditions, severity, and mitigations) to help practitioners reason about the limits of system guarantees and the robustness of safety or trustworthiness arguments.
+This repo contains a Defeater Card template and Defeater cards for public safety-critical systems in the literature. You can use defeater cards to analyze and reason about defeaters in safety assurance cases!
 
-This repository provides a Defeater Card template along with examples drawn from real-world assurance cases and algorithmic audits. Defeater Cards can be used to systematically identify, analyze, and compare weaknesses across systems, models, or evaluation settings.
+We envision defeater cards as living artifacts that will evolve. This repository serves as a centralized location for documentation and can be utilized by researchers for future work. As new methods and evaluation techniques are developed, defeaters cards can be added and updated.
 
-Defeater Cards are intended to be living artifacts that evolve alongside assurance practices and evaluation methodologies. As new types of risks, failure modes, and assessment techniques emerge, cards can be extended, refined, and added to reflect current best practices.
-Contributions are welcome! Please feel free to open issues or submit pull requests to suggest new cards, improvements to the template, or additional guidance for using Defeater Cards in practice.
+We accept pull requests!
+
+## Abstract
+Safety assurance cases provide structured justifications that safety-critical systems meet their safety requirements. Recently, the notion of defeaters has emerged as a rigorous means of challenging the validity of safety arguments. Examples of defeaters might include overly strict claims, unreliable evidence, or reasoning gaps. However, defeaters remain ad hoc, lack structured support for critical reflection, are inconsistently described, are difficult to review, and lack documentation standards. To address this, we propose Defeater Cards, a new structured documentation artifact for systematically characterizing, reasoning about, and managing defeaters in safety cases. Drawing on a literature survey and thematic analysis, we identify documentation criteria that inform the card's structure, based on the 5W1H framework. Defeater Cards are designed to support informed analysis and evolution, improve traceability and auditability, and enable the reuse of defeater knowledge
+across systems and product variants.  We demonstrate their applicability through two cross-domain case studies, showing how they expose hidden assumptions, surface reasoning gaps, and support ongoing safety assurance case evolution. To support adoption and community reuse, we also release an open-source repository of defeater cards as a baseline upon which researchers and practitioners can build and describe lessons learned.
 
 ## Explore Defeater Cards
 * [CERN](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/CERN)
