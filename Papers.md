@@ -1,4 +1,6 @@
-### List of papers derived from the literature review to support formalize documentation criteria
+### List of papers derived from the literature review to formalize documentation criteria
+##
+
 
 [1] Bloomfield, R., Netkachova, K., & Rushby, J. (2024). Defeaters and eliminative argumentation in assurance 2.0. arXiv preprint arXiv:2405.15800.
 
