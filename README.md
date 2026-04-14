@@ -25,6 +25,6 @@ across systems and product variants.  We demonstrate their applicability through
 If you are interested in contributing new defeater cards to new or existing systems, please use the [defeater card template](https://github.com/UsmanGohar/Defeater-Cards/blob/main/defeater_cards/template.md) at `defeater_cards/template.md` and fill out relevant areas. Name the card `{system name}_{defeater_name}.md`
 
 ## Paper Artifacts
-The literature used to develop the formal documentation criteria in the paper is available [here](https://github.com/UsmanGohar/Defeater-Cards/blob/main/Papers.md). The rest of the artifacts will be shared upon publication
+The literature used to develop the formal documentation criteria in the paper is available [here](https://github.com/UsmanGohar/Defeater-Cards/blob/main/Papers.md). The remaining artifacts will be shared upon publication. We also plan to start a Defeater Card Database to track new systems evaluated using Defeater Cards.
 
 
