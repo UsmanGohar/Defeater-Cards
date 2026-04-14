@@ -15,9 +15,17 @@ Safety assurance cases provide structured justifications that safety-critical sy
 across systems and product variants.  We demonstrate their applicability through two cross-domain case studies, showing how they expose hidden assumptions, surface reasoning gaps, and support ongoing safety assurance case evolution. To support adoption and community reuse, we also release an open-source repository of defeater cards as a baseline upon which researchers and practitioners can build and describe lessons learned.
 
 ## Explore Defeater Cards
+* [Air Traffic Control](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/air_traffic_control_systems)
+
+* [Autonomous Systems](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/autonomous_systems)
+
 * [CERN](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/CERN)
 
+* [QNX Operating System](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/QNX_os)
+
 * [Molecular Programming](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/molecular_programming)
+
+* [Neural Networks](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/neural_networks)
 
 * [sUAS](https://github.com/UsmanGohar/Defeater-Cards/tree/main/defeater_cards/sUAS)
 
