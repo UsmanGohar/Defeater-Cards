@@ -43,7 +43,7 @@
 ## Where? (Context and Scope)
 
 * **System/Component:** DNA gate complexes and input strands.
-* **Operational Context:** DNA strand displacement chemical reaction networks during system startup.
+* **Operational Context:** DNA strand displacement chemical reaction during system startup.
 
 ---
 
