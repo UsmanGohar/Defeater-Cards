@@ -35,7 +35,7 @@
 
 ## When? (Temporal & Lifecycle Relevance)
 * **Event/Trigger:** Occurs immediately upon system initialization ($t \approx 0$) when input strands interact with defective or partially formed gate complexes.
-* **Defeater Frequency:** $k_{leak} \approx 1 \, \text{M}^{-1}\text{s}^{-1}.$ This is the second-order rate constant that quantifies the speed of unintended DNA strand displacement.
+* **Defeater Frequency:** $k_{leak} \approx 1 \, \text{M}^{-1}\text{s}^{-1}.$ This is the second-order rate constant that quantifies the rate of unintended DNA strand displacement.
 * **Phase/Lifecycle:** System preparation and initialization phase.
 
 ---
