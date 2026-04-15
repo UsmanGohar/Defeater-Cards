@@ -11,9 +11,9 @@
 ## What? (Identification and Evaluation)
 *What is being evaluated?*
 
-* **Affected Node:** G1.2 "The substoichiometric yield due to initial leak is at an accepted level."
+* **Affected Node:** G1.3 "The substoichiometric yield due to initial leak is at an accepted level."
 * **Defeater Description:** The goal assumes that substoichiometric yield loss due to initial leak is bounded within an acceptable level. However, imperfections such as truncated strands, synthesis errors, and incomplete annealing can produce defective gate complexes that are spuriously reactive and participate in unintended strand-displacement reactions immediately at system initialization.
-* **Source:** Initial fluorescence spikes and early input consumption observed during experimental initialization of DNA strand-displacement circuits \cite{Lapteva22}.
+* **Source:** Initial fluorescence spikes and early input consumption observed during experimental initialization of DNA strand-displacement circuits (Lapteva et al.).
 
 ---
 
@@ -35,7 +35,7 @@
 
 ## When? (Temporal & Lifecycle Relevance)
 * **Event/Trigger:** Occurs immediately upon system initialization ($t \approx 0$) when input strands interact with defective or partially formed gate complexes.
-* **Defeater Frequency:** $k_{leak} \approx 1 \, \text{M}^{-1}\text{s}^{-1}.$ This is the second-order rate constant that quantifies the speed of unintended DNA strand displacement.
+* **Defeater Frequency:** $k_{leak} \approx 1 \, \text{M}^{-1}\text{s}^{-1}.$ This is the second-order rate constant that quantifies the rate of unintended DNA strand displacement.
 * **Phase/Lifecycle:** System preparation and initialization phase.
 
 ---
@@ -43,7 +43,7 @@
 ## Where? (Context and Scope)
 
 * **System/Component:** DNA gate complexes and input strands.
-* **Operational Context:** DNA strand displacement chemical reaction networks during system startup.
+* **Operational Context:** DNA strand displacement chemical reaction during system startup.
 
 ---
 
