@@ -13,7 +13,7 @@
 
 * **Affected Node:** G1.3 "The substoichiometric yield due to initial leak is at an accepted level."
 * **Defeater Description:** The goal assumes that substoichiometric yield loss due to initial leak is bounded within an acceptable level. However, imperfections such as truncated strands, synthesis errors, and incomplete annealing can produce defective gate complexes that are spuriously reactive and participate in unintended strand-displacement reactions immediately at system initialization.
-* **Source:** Initial fluorescence spikes and early input consumption observed during experimental initialization of DNA strand-displacement circuits \cite{Lapteva22}.
+* **Source:** Initial fluorescence spikes and early input consumption observed during experimental initialization of DNA strand-displacement circuits (Lapteva et al.).
 
 ---
 
