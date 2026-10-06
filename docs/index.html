@@ -1,0 +1,12 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Defeater Cards test</title></head>
+<body>
+  <h1>Test page</h1>
+  <p id="out">Loading data…</p>
+  <script>
+    fetch("data/test.json")
+      .then(r => r.json())
+      .then(d => document.getElementById("out").textContent = "Data loaded: " + d.message)
+      .catch(e => document.getElementById("out").textContent = "Data failed: " + e);
+  </script>
+</body></html>
