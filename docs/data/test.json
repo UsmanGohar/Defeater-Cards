@@ -1,1 +1,1 @@
-{ "message": "it works" }
+window.TEST = { message: "it works" };
