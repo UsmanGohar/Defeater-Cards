@@ -1,12 +1,15 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><title>Defeater Cards test</title></head>
-<body>
-  <h1>Test page</h1>
-  <p id="out">Loading data…</p>
+<html><head><meta charset="utf-8"><title>Test 2</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3/dist/tabler-icons.min.css">
+</head><body>
+  <h1>Test 2</h1>
+  <p id="a">Local script: failed</p>
+  <p id="b">CDN script: failed</p>
+  <p>CDN icon: <i class="ti ti-circle-check" style="font-size:24px"></i> (should show a check icon)</p>
+  <script src="data/test.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4/lodash.min.js"></script>
   <script>
-    fetch("data/test.json")
-      .then(r => r.json())
-      .then(d => document.getElementById("out").textContent = "Data loaded: " + d.message)
-      .catch(e => document.getElementById("out").textContent = "Data failed: " + e);
+    if (window.TEST) document.getElementById("a").textContent = "Local script: " + TEST.message;
+    if (window._) document.getElementById("b").textContent = "CDN script: loaded";
   </script>
 </body></html>
